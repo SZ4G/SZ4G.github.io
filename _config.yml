@@ -12,7 +12,7 @@ github_repo: "https://github.com/SZ4G/sz4g.github.io.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Embrace the Wilderness!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/wuyuan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
