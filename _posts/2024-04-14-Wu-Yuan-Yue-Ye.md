@@ -7,8 +7,7 @@ author:     CC
 header-img: img/d1.jpg
 catalog:    true
 tags: 越野,户外,深圳
-    - GitHub
-    - 博客管理
+   
 ---
 
 ## 由头
