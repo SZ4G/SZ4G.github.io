@@ -14,15 +14,6 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "富深十六载<br>Embrace the Wilderness!"
 sidebar-avatar: /img/wuyuan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-<!-- 
-# SNS settings
-RSS: false
-weibo_username:     username
-zhihu_username:     username
-github_username:    username
-facebook_username:  username
-jianshu_username:	jianshu_id
--->
 
 # 新的配置开始
 # Build settings
