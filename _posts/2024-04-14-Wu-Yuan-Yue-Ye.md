@@ -6,7 +6,10 @@ date:       2024-04-14
 author:     CC
 header-img: img/d1.jpg
 catalog:    true
-tags: - 越野 - 户外 - 深圳
+tags:
+  - 越野
+  - 户外
+  - 深圳
    
 ---
 
