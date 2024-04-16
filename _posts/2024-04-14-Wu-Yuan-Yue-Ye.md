@@ -33,7 +33,7 @@ tags: 越野,户外,深圳
 
 ### 准备
 
-没有准备....快进至2024-04-14* (活动由3/24延期至4/14)*
+没有准备....快进至2024-04-14 (活动由3/24延期至4/14)
 
 
 ### 参赛
@@ -47,6 +47,6 @@ tags: 越野,户外,深圳
 
 ![合影](https://github.com/SZ4G/sz4g.github.io/raw/master/img/1619922752.jpg)
 
-![证书](https://github.com/SZ4G/sz4g.github.io/raw/master/img/d1.jpg)
+![证书](https://github.com/SZ4G/sz4g.github.io/raw/master/img/50736309.jpg)
 
 
