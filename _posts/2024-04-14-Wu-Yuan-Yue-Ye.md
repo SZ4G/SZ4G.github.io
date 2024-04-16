@@ -16,7 +16,7 @@ tags:
 ## 由头
 
 
-<font style="background: green; color: white;">**小黑哥🐻**：[https://event.2bulu.com/d-65bb077ef55c5264bc946e11.htm](https://event.2bulu.com/d-65bb077ef55c5264bc946e11.htm "https://event.2bulu.com/d-65bb077ef55c5264bc946e11.htm")</font>
+<font style="background: green; color: white;">**小黑哥🐻**：[https://event.2bulu.com/d-65bb077ef55c5264bc946e11.htm](https://)</font>
 <br>
 <font style="background: green; color: white;">**CC🐗**：活动这就来了？</font>
 <br>
