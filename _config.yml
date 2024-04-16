@@ -16,14 +16,15 @@ sidebar-avatar: /img/wuyuan.jpg      # use absolute URL, seeing it's used in bot
 
 
 
+<!-- 
 # SNS settings
 RSS: false
-# weibo_username:   sz4g
-zhihu_username:     sz4g
-github_username:    sz4g
-facebook_username:  sz4g
-jianshu_username:   sz4g
-#twitter_username:  sz4g
+weibo_username:     username
+zhihu_username:     username
+github_username:    username
+facebook_username:  username
+jianshu_username:	jianshu_id
+-->
 
 
 
@@ -96,6 +97,7 @@ service-worker: true
 
 
 
+<!-- 
 # Friends
 friends: [
     {
@@ -103,3 +105,4 @@ friends: [
         href: "https://smallmuzzy.github.io/"
     }
 ]
+-->
