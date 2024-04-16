@@ -16,21 +16,21 @@ tags:
 ## 由头
 
 
-<font style="background: green; color: white;">**小黑哥🐻**：[https://event.2bulu.com/d-65bb077ef55c5264bc946e11.htm](https://)</font><br>
+**小黑哥🐻**：[https://event.2bulu.com/d-65bb077ef55c5264bc946e11.htm](https://)
 
-<font style="background: green; color: white;">**CC🐗**：活动这就来了？</font><br>
+**CC🐗**：活动这就来了？
 
-<font style="background: green; color: white;">**小黑哥🐻**：状态好，开个好头🎆🎆🎆</font><br>
+**小黑哥🐻**：状态好，开个好头🎆🎆🎆
 
-<font style="background: green; color: white;">**小黑哥🐻**：@所有人，3/24号，23KM，咋样？</font><br>
+**小黑哥🐻**：@所有人，3/24号，23KM，咋样？
 
-<font style="background: green; color: white;">**CC🐗**：搞!</font><br>
+**CC🐗**：搞!
 
-<font style="background: green; color: white;">**阿笛🐎**：搞!</font><br>
+**阿笛🐎**：搞!
 
-<font style="background: green; color: white;">**Wudy🐑**：搞!</font><br>
+**Wudy🐑**：搞!
 
-<font style="background: green; color: white;">**小黑哥🐻**：搞!</font>
+**小黑哥🐻**：搞!
 
 <br><br>
 
