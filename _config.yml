@@ -69,13 +69,3 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # 新的配置结束
-
-<!--
-# Friends
-friends: [
-    {
-        title: "small muzzy",
-        href: "https://smallmuzzy.github.io/"
-    }
-]
--->
